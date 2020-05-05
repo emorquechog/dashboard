@@ -1,12 +1,6 @@
 import {red, blue, yellow, green} from "../utilities/colors"
 
-export const resourcesData = [
-    {
-        id: 'r0',
-        name: 'Resource0',
-        groupOnly: false
-    }
-];
+
 
 export const schedulerTimes = {
     availabilityOfCurrentWeek: [
